@@ -1,5 +1,7 @@
 # IQueryable IEnumerable Comparison
 
+![Screenshot 2023-11-28 064440](https://github.com/codewithelmor/csharp-iqueryable-ienumerable-comparison/assets/44918452/ee749a9a-c969-454e-9dcd-7b402f23c596)
+
 In C#, **`IQueryable`** and **`IEnumerable`** are both interfaces that represent collections of objects, but they are used in different scenarios and have different capabilities.
 
 ## IEnumerable:
